@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zishu7013
+- 👋 Hi, I’m Zishan
 - 👀 I’m interested in Programming,machine learning 
 - 🌱 I’m currently learning full stack web development 
 - 📫 You can reach me through LinkedIn Instagram 
